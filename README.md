@@ -28,5 +28,5 @@ Resources for the PSU MacAdmins 2025 session: swiftDialog for Overworked MacAdmi
 - [SF Symbols download](https://developer.apple.com/sf-symbols/) — only for UI stuff! Check the license. We have versions 6, and 7 Beta
 - New and might be useful: [Apple Icon Composer](https://developer.apple.com/icon-composer/) -- Check the license! 
 - [Markdown Reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- Trevor Sysockk blog post on [Using arrays with dialog options](https://bigmacadmin.wordpress.com/2023/01/03/avoiding-eval-with-swiftdialog/)
+- Trevor Sysock blog post on [Using arrays with dialog options](https://bigmacadmin.wordpress.com/2023/01/03/avoiding-eval-with-swiftdialog/)
 - Some [how-to examples](https://github.com/SecondSonConsulting/swiftDialogExamples)
