@@ -1,12 +1,15 @@
-# DRAFT
-
 # swiftDialog for Overworked MacAdmins
 Resources for the PSU MacAdmins 2025 session: swiftDialog for Overworked MacAdmins
 
 ## Scripts
+These are more or less functioning scripts that can be used to:
+1. Show a notification that you'd customize, then quit.
+2. Do an action after confirming that the user wants to do it, in this case write a value to a plist file that in combination with a Jamf extension attribute will put the computer into a target group. A Jamf recon makes sure the update happens during the action.
+3. Do the same as #2 but show more progress information per action while it's happening.
+
 - dialog-runNotifications.sh is a script for simply displaying a branded dialog window with a message and exiting.
-- dialog-runChooser.sh is a script for displaying an initial branded dialog window with a user choice to continue or cancel, then a simple and updateable window to show while other script actions happen.
-- (third script description)
+- dialog-actionChooser.sh is a script for displaying an initial branded dialog window with a user choice to continue or cancel, then a simple and updateable window to show while other script actions happen.
+- dialog-actionProgress.sh is a script for displaying an initial branded dialog window with a user choice to continue or cancel, then a window with list items to show progress while other script actions happen.
 
 ## Images
 - Blank-Banner-850x150-144.png is a banner image blank with a vertically centered rectangle to define the area of the image that the visible banner can be confined to, in order to avoid clipping when used with dialog.
