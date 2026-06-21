@@ -34,7 +34,7 @@ helpLink="https://askfits.fabulous.org/KB/?CategoryID=3"
 # Establish the log file, script name, and version
 scriptLog="/var/tmp/$orgReverseName.dialog.log"
 scriptName="dialog-runNotification"
-scriptVersion="0.3.0"
+scriptVersion="0.3.1"
 
 # Dialog variables
 # Path to dialog -- use this if you like to use $dialogPath to call
