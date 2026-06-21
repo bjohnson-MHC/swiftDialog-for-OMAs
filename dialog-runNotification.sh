@@ -5,7 +5,7 @@ set -x
 	Written by: Beth Johnson
 
 	Originally posted: 07 May 2025 
-	Updated: 25 Jun 2025  
+	Updated: 21 Jun 2026 - swiftDialog 3.0 verified
 
 	Purpose: Provide information about an event or status.
 
@@ -34,7 +34,7 @@ helpLink="https://askfits.fabulous.org/KB/?CategoryID=3"
 # Establish the log file, script name, and version
 scriptLog="/var/tmp/$orgReverseName.dialog.log"
 scriptName="dialog-runNotification"
-scriptVersion="0.1.0"
+scriptVersion="0.3.0"
 
 # Dialog variables
 # Path to dialog -- use this if you like to use $dialogPath to call

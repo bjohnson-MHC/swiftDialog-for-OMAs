@@ -1,5 +1,6 @@
 # swiftDialog for Overworked MacAdmins
 Resources for the PSU MacAdmins 2025 session: swiftDialog for Overworked MacAdmins
+*These scripts are tested for compatibility with swiftDialog 3.0. The resources need to be checked as Bart has moved the documentation to a separate website.*
 
 ## Scripts
 These are more or less functioning scripts that can be used to:
