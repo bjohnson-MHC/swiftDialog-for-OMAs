@@ -6,7 +6,7 @@ set -x
 	Written by: Beth Johnson
 
 	Originally posted: 17 Jun 2025 
-	Updated: 21 Jun 2026 - swiftDialog 3.0 testing     
+	Updated: 21 Jun 2026 - swiftDialog 3.0 verified     
 
 	Purpose: Provide information about an event with updates as it is going,
 	using a starting window with cancellation, minimal progress notification, 

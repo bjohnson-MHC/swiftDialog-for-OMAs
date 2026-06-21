@@ -5,7 +5,7 @@ set -x
 	Written by: Beth Johnson
 
 	Originally posted: 07 May 2025 
-	Updated: 21 Jun 2026 - swiftDialog 3.0 testing
+	Updated: 21 Jun 2026 - swiftDialog 3.0 verified
 
 	Purpose: Provide information about an event or status.
 
