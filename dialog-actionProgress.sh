@@ -6,7 +6,7 @@ set -x
 	Written by: Beth Johnson
 
 	Originally posted: 17 Jun 2025 
-	Updated: 07 Jul 2025     
+	Updated: 21 Jun 2026 - swiftDialog 3.0 testing    
 
 	Purpose: Provide information about an event with updates as it is going,
 	using a starting window with cancellation, per-item progress notification, 
@@ -39,7 +39,7 @@ helpLink="https://askfits.fabulous.org/TDClient/50/Portal/KB/?CategoryID=3"
 # Establish the log file, script name, and version
 scriptLog="/var/tmp/$orgReverseName.dialog.log"
 scriptName="dialog-actionProgress"
-scriptVersion="0.1.6"
+scriptVersion="0.3.0"
 
 # Action Variables
 # These variables are used by the action part of the script and are an example
