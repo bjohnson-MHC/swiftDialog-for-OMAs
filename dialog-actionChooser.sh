@@ -38,7 +38,7 @@ helpLink="https://askfits.fabulous.org/TDClient/50/Portal/KB/?CategoryID=3"
 # Establish the log file, script name, and version
 scriptLog="/var/tmp/$orgReverseName.dialog.log"
 scriptName="dialog-actionChooser"
-scriptVersion="0.3.0"
+scriptVersion="0.3.1"
 
 # Action Variables
 # These variables are used by the action part of the script and are an example
